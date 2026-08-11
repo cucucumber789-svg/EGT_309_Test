@@ -12,4 +12,4 @@ The purpose of the code is to create the modular pipeline layout and have the mo
 Aside from accodmodating sources such as images and url, it can also include videos and voice recording for the model to increase its uses. Instead of only displaying the result for output, the model can also display the output the process to showcase what is happening. For example, preserve page numbers, headings, paragraphs, tables, and images, then provide the model with this structured content for more accurate document questions and answers.
 
 #### Q4 Advanced Github features implemented:
-Hugging face can be implemented
+Integrates Hugging Face to support document processing and AI model capabilities within the modular pipeline. The system can use Hugging Face models to understand extracted document content and answer questions based on the uploaded source. GitHub is used to manage, version, and collaborate on the project code.
