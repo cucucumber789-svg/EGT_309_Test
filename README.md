@@ -3,7 +3,7 @@
 
 ### Name: FONG WEI GUAN
 ### Admin Number: 241812H
-### Github Link: git@github.com:cucucumber789-svg/EGT_309_Test.git
+### Github Link: https://github.com/cucucumber789-svg/EGT_309_Test
 
 #### Q2(a): Documenting Your Python Class:
 The purpose of the code is to create the modular pipeline layout and have the model document, question or answer the document source that is loaded. It is able to accomodate documents, images and url. If the source is an url that ends with '.pdf''., it will convert the pages from bytes, else it will convert the pages from path. If the source is an url that is not pdf, it will open the image and convert it to RGB. After reading the source and converting it, it would display the result.
